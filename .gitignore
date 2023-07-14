@@ -1,0 +1,6 @@
+hello-world-BE/.env
+hello-world-BE/node_modules/
+hello-world-BE/package-lock.json
+
+hello-world-FE/node_modules/
+hello-world-FE/package-lock.json
